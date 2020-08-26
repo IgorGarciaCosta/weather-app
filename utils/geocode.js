@@ -22,4 +22,5 @@ const geocode = (address, callback) => {
 
 }
 
+//exporta a função geocode
 module.exports = geocode
